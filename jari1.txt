@@ -1,0 +1,2 @@
+Hallo, dit is versie 1 van jari1.txt
+Hier een update voor opdracht 3.
