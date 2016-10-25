@@ -1,1 +1,2 @@
 versie 1 van joey2.txt
+Dit is update voor stap 6.
